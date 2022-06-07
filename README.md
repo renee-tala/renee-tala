@@ -1,6 +1,4 @@
-### Renee Salem | Data Analyst 
-
-----
+# Renee Salem | Data Analyst 
 
 Data Analyst with a Bachelor's Degree in Mass Communication and Advertising. I recently graduated from a Data Analytics program at Michigan State University, where I furthered my web development skills and added Python, Pandas, Machine Learning, and more to my skillset. With my minors in Sociology and Theatre and my retail experience, I have learned that data and data collection is not limited to the computer. This has improved my understanding of how consumers think and their multiple perspectives. 
 
